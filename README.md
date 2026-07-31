@@ -1,6 +1,5 @@
 # FFT-AXI-Hardware-Accelerator
 8-point DIT FFT hardware accelerator with an AXI4-Stream interface for Zynq-7000 SoCs
-# Hardware Accelerator: 8-Point DIT FFT with AXI4-Stream Interface
 
 ## Overview
 This repository contains the RTL design, hardware verification, and System-on-Chip (SoC) integration of an 8-point Decimation-In-Time (DIT) Fast Fourier Transform (FFT) accelerator. The custom IP is written in Verilog and wrapped in an AXI4-Stream interface for seamless integration with an ARM-based processing system via Direct Memory Access (DMA).
